@@ -1,0 +1,45 @@
+Nitelik Bilgileri: (sınıflar: yenilebilir=e, zehirli=p)
+
+1. şapka şekli: çan=b, konik=c, dışbükey=x, düz=f,yumrulu=k, çökük=s
+
+2. şapka yüzeyi: lifli=f, oluklar=g, pullu=y, pürüzsüz=s
+
+3. şapka rengi: kahverengi=n, açık kahverengi=b, tarçın=c, gri=g, yeşil=r,pembe=p, mor=u, kırmızı=e, beyaz=w, sarı=y
+
+4. çürükler?: çürükler=t, hayır=f
+
+5. koku: badem=a, anason=l, kreozot=c, balıksı=y, iğrenç=f,küflü=m, yok=n, keskin=p, baharatlı=s
+
+6. solungaç bağlantısı: bağlı=a, alçalan=d, serbest=f, çentikli=n
+
+7. solungaç aralığı: yakın=c, kalabalık=w, uzak=d
+
+8. solungaç boyutu: geniş=b, dar=n
+
+9. solungaç rengi: siyah=k, kahverengi=n, açık kahverengi=b, çikolata=h, gri=g,yeşil=r, turuncu=o, pembe=p, mor=u, kırmızı=e,beyaz=w, sarı=y
+
+10. sap şekli: büyüyen=e, sivrilen=t
+
+11. sap kökü: soğanlı=b, kulüp=c, fincan=u, eşit=e,rizomorflar=z, köklü=r, eksik=?
+
+12. sap-yüzeyi-halkanın-üstünde: lifli=f, pullu=y, ipeksi=k, pürüzsüz=s
+
+13. sap-yüzeyi-halkanın-altında: lifli=f, pullu=y, ipeksi=k, pürüzsüz=s
+
+14. sap-renk-halkanın-üstünde: kahverengi=n, açık kahverengi=b, tarçın=c, gri=g, turuncu=o,pembe=p, kırmızı=e, beyaz=w, sarı=y
+
+15. sap-renk-halkanın-altında: kahverengi=n, açık kahverengi=b, tarçın=c, gri=g, turuncu=o,pembe=p, kırmızı=e, beyaz=w, sarı=y
+
+16. örtü-türü: kısmi=p, evrensel=u
+
+17. örtü-rengi: kahverengi=n, turuncu=o, beyaz=w, sarı=y
+
+18. halka-numarası: hiçbiri=n,bir=o,iki=t
+
+19. halka tipi: örümcek ağı=c,geçici=e,parlayan=f,büyük=l,hiçbiri=n,pendant=p,kılıf=s,bölge=z
+
+20. spor baskı rengi: siyah=k,kahverengi=n,sarı=b,çikolata=h,yeşil=r,turuncu=o,mor=u,beyaz=w,sarı=y
+
+21. popülasyon: bol=a,kümelenmiş=c,çok sayıda=n,dağınık=s,birkaç=v,yalnız=y
+
+22. habitat: çimenler=g,yapraklar=l,çayırlar=m,yollar=p,kentsel=u,atık=w,ormanlar=d
