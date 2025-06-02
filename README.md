@@ -8,7 +8,7 @@ Bu proje, TensorFlow kullanılarak gerçekleştirilmiş bir ikili sınıflandır
 - Derin öğrenme (Deep Learning) yöntemi kullanılmıştır.
 - TensorFlow ve Keras kütüphaneleriyle model geliştirilmiştir.
 - Model, `accuracy`, `precision`, `recall` ve `f1-score` gibi metriklerle değerlendirilmiştir.
-- Nihai model test verisinde yaklaşık **%82 doğruluk (accuracy)** sağlamıştır.
+- Nihai model test verisinde yaklaşık **%98 doğruluk (accuracy)** sağlamıştır.
 
 ## 🧰 Kullanılan Teknolojiler
 
@@ -36,7 +36,7 @@ Bu proje, TensorFlow kullanılarak gerçekleştirilmiş bir ikili sınıflandır
 
 **Genel Sonuçlar:**
 
-- Accuracy: **0.99**
+- Accuracy: **0.98**
 - Macro Avg: Precision **0.98**, Recall **0.99**, F1-Score **0.98**
 - Weighted Avg: Precision **0.96**, Recall **0.95**, F1-Score **0.99**
 
