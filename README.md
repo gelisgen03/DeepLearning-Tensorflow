@@ -8,7 +8,7 @@ Bu proje, TensorFlow kullanılarak gerçekleştirilmiş bir ikili sınıflandır
 - Derin öğrenme (Deep Learning) yöntemi kullanılmıştır.
 - TensorFlow ve Keras kütüphaneleriyle model geliştirilmiştir.
 - Model, `accuracy`, `precision`, `recall` ve `f1-score` gibi metriklerle değerlendirilmiştir.
-- Nihai model test verisinde yaklaşık **%82 doğruluk (accuracy)** sağlamıştır.
+- Nihai model test verisinde yaklaşık **%98 doğruluk (accuracy)** sağlamıştır.
 
 ## 🧰 Kullanılan Teknolojiler
 
@@ -31,14 +31,14 @@ Bu proje, TensorFlow kullanılarak gerçekleştirilmiş bir ikili sınıflandır
 
 | Sınıf | Precision | Recall | F1-Score | Support |
 |------:|----------:|-------:|---------:|--------:|
-| 0     | 1.00      | 0.69   | 0.82     | 449     |
-| 1     | 0.72      | 1.00   | 0.84     | 363     |
+| 0     | 0.99      | 0.98   | 0.97     | 449     |
+| 1     | 0.98      | 0.99   | 0.98     | 363     |
 
 **Genel Sonuçlar:**
 
-- Accuracy: **0.83**
-- Macro Avg: Precision **0.86**, Recall **0.84**, F1-Score **0.83**
-- Weighted Avg: Precision **0.87**, Recall **0.83**, F1-Score **0.83**
+- Accuracy: **0.98**
+- Macro Avg: Precision **0.98**, Recall **0.99**, F1-Score **0.98**
+- Weighted Avg: Precision **0.96**, Recall **0.95**, F1-Score **0.99**
 
 🔍 Not: Modelin pozitif sınıfı (1) daha iyi tanıdığı, ancak negatif sınıfta (0) bazı yanlış sınıflamalar yaptığı gözlemlenmiştir.
 
@@ -50,10 +50,7 @@ Model aşağıdaki gibi eğitilmiştir:
 model.predict(x_test) > 0.5
 ```
 
-### Kayıp ve Doğruluk:
 
-- Loss: `0.5712`
-- Accuracy (test set): `0.8288`
 
 ## 🚀 Kurulum ve Çalıştırma
 
