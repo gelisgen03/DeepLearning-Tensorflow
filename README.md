@@ -84,8 +84,11 @@ jupyter notebook model.ipynb
 
 ## 📌 Notlar
 
-- `model.ipynb` dosyasında model mimarisi, eğitim süreci ve metrikler detaylı şekilde açıklanmıştır.
-- İleri düzey performans için katman sayısı ve hiperparametreler üzerinde oynama yapılabilir.
+- `model/.ipynb` uzantı dosyasında model mimarisi, eğitim süreci ve metrikler detaylı şekilde açıklanmıştır.
+
+
+## 📅 Dataset Link
+`https://archive.ics.uci.edu/dataset/73/mushroom`
 
 ## 📬 İletişim
 
