@@ -88,8 +88,14 @@ jupyter notebook model.ipynb
 
 
 ## 📅 Dataset Link
-`https://archive.ics.uci.edu/dataset/73/mushroom`
+https://archive.ics.uci.edu/dataset/73/mushroom
 
+## 📃 Rapor
+[DL_Proje_Raporu.pdf](https://github.com/user-attachments/files/20565990/21360859086_Suleyman_Asim_Geligen_Veri_Madenciligi_DL_Proje_Raporu.pdf)
+
+
+## 📺 Video Link
+https://www.youtube.com/watch?v=-hALR64FQ1s
 ## 📬 İletişim
 
 Herhangi bir sorunuz varsa benimle iletişime geçmekten çekinmeyin:
